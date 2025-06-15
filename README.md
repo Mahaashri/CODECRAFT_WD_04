@@ -36,6 +36,6 @@ Demo
    
 2.Navigate to the project directory:
 
-   cd CODECRAFT_WD_04
+   cd CODECRAFT_WD_04 
 
 
