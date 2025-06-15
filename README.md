@@ -29,4 +29,13 @@ Demo
 - (Optional) Font Awesome for icons
 
 
+1. Clone this repository:
+
+   git clone https://github.com/Mahaashri/CODECRAFT_WD_04.git
+
+   
+2.Navigate to the project directory:
+
+   cd CODECRAFT_WD_04
+
 
